@@ -17,3 +17,5 @@ function checkLength(text, max = 140) {
 
 // alert(checkLength("Чебурашка", 140));
 
+getRandomInteger(1,1);
+checkLength('!', 140);
